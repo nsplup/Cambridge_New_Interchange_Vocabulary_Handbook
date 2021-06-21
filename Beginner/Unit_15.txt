@@ -1,0 +1,40 @@
+designer	n.	设计师
+album	n.	歌曲唱片
+drama	n.	戏剧
+band	n.	乐队，组合
+elementary school	 	小学
+be born	 	出生
+fluent	a.	流利的
+because	conj.	因为
+for (……years)	prep.	达(……年)
+capital	n.	首都
+classroom	n.	教室
+forever	ad.	永远地
+(first) grade	n.	(一)年级
+college	n.	大学
+commercial	n.	商业广告
+grow up	 	长大
+gym	n.	体育馆
+hairstylist	n.	发型师
+physical education	 	体育
+place of birth	 	出生地
+high school	 	高中
+playground	n.	操场
+history	n.	历史
+playwright	n.	戏剧家
+junior high school	 	初中
+right away	 	马上，立刻
+lunchroom	n.	午餐食堂
+same	a.	同样的
+scary	a.	吓人的
+major	n.	专业
+on time	 	准时
+science	n.	理科的一门学科(包括生物、化学、物理等)
+performer	n.	艺人
+soap opera	 	肥皂剧
+spend (time)	v.	花(时间)
+success	n.	成功
+time line	 	年表
+violinist	n.	小提琴手
+well known	 	著名的
+year of birth	 	出生年份

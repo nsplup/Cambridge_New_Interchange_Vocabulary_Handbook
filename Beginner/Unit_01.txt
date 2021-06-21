@@ -1,0 +1,48 @@
+afternoon	n.	下午
+again	ad.	又，再
+am(='m)	v.	是。在
+and	conj.	和，与
+are(='re)	v.	是，在
+book	n.	书
+(English/math) class	n.	(英语/数学)课
+classmate	n.	同班同学
+his	a.	他的
+country	n.	国家;国土
+I	pron.	我
+evening	n.	傍晚
+in (my class)	prep.	在(我的班)里
+famous	a.	著名的
+female	n.	女子
+is(='s)	v.	是。在
+first	a.	第一的
+it	pron.	它
+first/last name	 	名字/姓
+last	a.	最后的
+he	pron.	他
+male	n.	男子
+her	a.	她的
+married	a.	已婚的
+math	n.	数学
+night	n.	夜晚
+Miss	n.	(未婚)女士。小姐
+no	ad.	不
+morning	n.	早晨
+oh	int.	噢
+Mr.	n.	先生
+our	a.	我们的
+Mrs.	n.	夫人，太太
+phone	n.	电话
+Ms.	n.	女士
+phone number	 	电话号码
+my	a.	我的
+popular	a.	受欢迎的
+name	n.	名字
+she	pron.	她
+nickname	n.	绰号
+single	a.	单身的
+teacher	n.	教师
+(over) there	ad.	(在)那里
+too (=also)	ad.	也
+yes	ad.	是
+you	pron.	你，你们
+your	a.	你的，你们的

@@ -1,0 +1,55 @@
+a quarter after (six)	 	(6点)过一刻
+a quarter to (six)	 	差一刻(6点)
+(6:OO)A.M./P.M.	 	上午(6点)/下午(6点)
+at midnight	 	在午夜
+at night	 	在晚上
+at noon	 	在中午
+awake	a.	苏醒的
+dinner	n.	晚餐
+bike	n.	自行车
+do	v.	做
+breakfast	n.	早餐
+drive	v.	驾驶
+call	v.	打电话
+eat	v.	吃
+chat	v.	聊天(尤其用于网上闲聊)
+get up	 	起床
+go (to work/to the movies)	v.	去(上班/看电影)
+conference	n.	会议
+cook	v.	烹饪
+have (breakfast/lunch)	v.	吃(早餐/午餐)
+dance	v.	跳舞
+hungry	a.	饥饿的
+meal	n.	一顿饭
+in the afternoon	 	在下午
+midnight	n.	午夜
+in the evening	 	在傍晚
+mom	n.	妈妈
+in the morning	 	在早上
+movie	n.	电影
+Internet cafe	 	能上网的咖啡厅
+noon	n.	中午
+laptop computer	 	笔记本电脑
+(right) now	ad.	(就是)现在
+lawn	n.	草坪
+mow	v.	刈，割
+lunch	n.	午餐
+online	ad.	在线地，联机地
+make	v.	做
+pizza	n.	披萨
+soccer	n.	(英式)足球
+play (ennis)	v.	打(网球)
+study	v.	学习
+read	v.	读
+swim	v.	游泳
+remember	v.	记住
+take (a walk)	v.	去(散步)
+ride (a bike)	v.	骑(车)
+tennis	v.	网球
+run	v.	跑步
+time zone	 	时区
+shop	v.	购物
+watch (television)	v.	看 (电视)
+sleep	v.	睡觉
+so	conj.	所以，于是
+work	v.	工作

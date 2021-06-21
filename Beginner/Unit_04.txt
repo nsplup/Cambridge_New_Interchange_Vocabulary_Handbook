@@ -1,0 +1,73 @@
+ask	v.	询问
+beige	a.	米色的
+belt	n.	带子
+black	a.	黑色的
+blouse	n.	(女式)上衣
+(dark/light) blue	a.	(深/浅)蓝色的
+boot	n.	靴子
+cool	a.	凉爽的
+(dark/light) brown	a.	(深/浅)褐色的
+disaster	n.	灾难，大不幸
+dress	n.	连衣裙，套裙
+cap	n.	帽子
+dry	a.	干燥的
+celebrity	n.	名人
+fall	n.	秋季
+clothes	n.	衣服(总称)
+favorite	a.	最喜欢的
+cloudy	a.	多云的
+glove	n.	手套
+coat	n.	上衣，外套
+(dark/light) gray	a.	(深/浅)灰色的
+cold	a.	寒冷的
+(dark/light) green	a.	(深/浅)绿色的
+humid	a.	潮湿的
+jacket	n.	夹克
+hat	n.	帽子
+jeans	n.	牛仔装
+high heels	 	高跟鞋
+matter	n.	问题，事情
+hers	pron.	属于她的(东西)
+maybe	ad.	或许，大概
+mine	pron.	属于我的(东西)
+his	pron.	属于他的 (东西)
+orange	a.	橙色的
+hot	a.	热的
+ours	pron.	属于我们的 (东西)
+pajamas	n.	睡衣裤
+shirt	n.	衬衫
+pants	n.	裤子
+shoe	n.	鞋
+pink	a.	粉色的
+shorts	n.	运动短裤
+problem	n.	难题
+skirt	n.	短裙
+purple	a.	紫色的
+sneaker	n.	运动鞋
+rain	v.	下雨
+snow	v.	下雪
+raincoat	n.	雨衣
+sock	n.	短袜
+red	a.	红色的
+spring	n.	春季
+scarf	n.	围巾
+suit	n.	套装
+season	n.	季节
+summer	n.	夏季
+tie	n.	领带
+sunny	a.	阳光明媚的
+T-Shirt	n.	T恤衫
+sweater	n.	针织套衫
+warm	a.	温暖的
+sweatshirt	n.	运动衫式衬衫
+wear	v.	穿，戴
+weather	n.	天气
+swimsuit	n.	游泳衣
+white	a.	白色的
+their	a.	他们的
+whose	a.	谁的
+theirs	pron.	属于他们的 (东酉)
+windy	a.	多风的
+winter	n.	冬季
+yellow	a.	黄色的
+yours	pron.	属于你的(东西)

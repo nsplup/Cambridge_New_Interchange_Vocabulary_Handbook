@@ -1,0 +1,61 @@
+difficult	a.	困难的
+actually	ad.	事实上
+disagree	v.	不同意
+agree	v.	同意
+doctor	n.	医生
+athlete	n.	运动员
+easy	a.	容易的
+audition	v.	试演，试唱
+exactly	ad.	正确地，准确地
+boring	a.	枯燥的
+cashier	n.	出纳员
+exciting	a.	令人兴奋的
+cook (=chef)	n.	厨师
+firefighter	n.	消防员
+dangerous	a.	危险的
+follow one's dream	 	追随某人的梦想
+hotel	n.	旅馆
+interesting	a.	有趣的
+forget	v.	忘记
+judge	n.	法官
+front desk agent	 	前合服务员
+lawyer	n.	律师
+guess	v.	猜测
+manager	n.	管理者，经理人
+handle	v.	处理
+hard	ad.	努力地
+money	n.	钱
+high school	 	中学
+musician	n.	音乐家
+hospital	n.	医院
+play	n.	戏剧
+nurse	n.	护士
+Office	n.	办公室
+police officer	 	警官
+opinion	n.	意见，看法
+pretty	ad.	很，非常
+professional	a.	职业的，专业的
+perfect	a.	完美的
+person	n.	人
+rain or shine	 	无论天气如何
+photographer	n.	摄影师
+receptionist	n.	接待员
+pilot	n.	飞行员
+relaxing	a.	轻松的
+talk (to)	v.	(和……)谈话
+safe	a.	安全的
+teach	v.	教，讲授
+salary	n.	薪水
+salesperson	n.	销售员，营业员
+terrific	a.	非常好的
+That's funny.	 	真没想到。
+uniform	n.	制服
+security guard	 	保安
+waiter	n.	男招待
+singer	n.	歌手
+waitress	n.	女招待
+sit	v.	坐
+stand	v.	站
+workplace	n.	工作场所
+stressful	a.	紧张的
+write	v.	书写

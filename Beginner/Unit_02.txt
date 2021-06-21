@@ -1,0 +1,60 @@
+address	n.	地址
+address book	 	地址簿
+bag	n.	袋子，包
+behind	prep.	在……后面
+board	n.	写字板
+book bag	 	书包
+box	n.	盒子
+briefcase	n.	公文包
+cell phone (=cellphone)	 	手机
+(English) book	n.	(英语)书
+chair	n.	椅子
+chopstick	n.	筷子
+cafe	n.	咖啡厅，快餐店
+clock	n.	钟，时钟
+desk	n.	书桌
+camera	n.	照相机
+(English) dictionary	n.	(英文)词典
+car	n.	汽车
+Cassette player	 	磁带放音机
+DVD player	 	DVD 机
+CD player	 	CD 机
+earring	n.	耳环
+encyclopedia	n.	百科全书
+I bet ……	 	我认为……
+in front of	 	在……前面
+eraser	n.	橡皮，擦除器
+interesting	a.	有趣的
+key	n.	钥匙
+exercise	n.	练习，训练
+location	n.	地点，场所
+glasses	n.	眼镜
+notebook	n.	笔记本
+gone	a.	丢失的
+now	ad.	好了(用于停顿或引起别人注意)
+great	a.	好的，伟大的
+on	prep.	在……上面
+sunglasses	n.	太阳镜
+open	v.	打开
+table	n.	桌子
+pen	n.	钢笔
+television	n.	电视
+pencil	n.	铅笔
+that	pron.	那(个)
+pocket	n.	口袋
+these	pron.	这些
+purse	n.	(女式)钱包
+they	pron.	他们，她们，它们
+Relax.	 	别担心。
+sentence	n.	句子
+thing	n.	东西，事物
+stamp	n.	邮票
+this	pron.	这(个)
+ticket	n.	票，入场券
+umbrella	n.	伞
+under	prep.	在……底下
+very	ad.	很，非常
+wallet	n.	(男式)钱包
+wastebasket	n.	废纸篓
+Watch	n.	手表
+window	n.	窗户
